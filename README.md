@@ -1,5 +1,5 @@
 <h2>Hey 👋, I'm Ashutosh</h2>
-<p>I'm currently a software engineer based in 🌁 Nashik. I am working on some side projects, learning a couple new dishes, and trying to conquer the world as Tannu Tuva in HOI4.</p>
+<p>I'm currently a software engineer based in 🌁 Nashik. I am an alumnus is of Infosys and currently pursuing Master's degree from University at Buffalo, NY.</p>
 
 <img align="right" src="https://i.imgur.com/4SdB78W.gif" width="400" height="400" />
 <h2>⚡️ A Few Quick Facts</h2>
