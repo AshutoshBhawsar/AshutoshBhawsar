@@ -1,5 +1,5 @@
 <h2>Hey 👋, I'm Ashutosh</h2>
-<p>I'm currently a software engineer based in 🌁 Nashik. I am an alumnus of <a href="https://www.infosys.com/" target="_blank"><strong>Infosys</strong></a> and currently pursuing Computer Science Master's degree from <a href="http://www.buffalo.edu/" target="_blank"><strong>University at Buffalo</strong></a>, NY.</p>
+<p>I'm a software engineer, an alumnus of <a href="https://www.infosys.com/" target="_blank"><strong>Infosys</strong></a> and currently pursuing Computer Science Master's degree from <a href="http://www.buffalo.edu/" target="_blank"><strong>University at Buffalo</strong></a>, NY.</p>
 
 <img align="right" src="https://i.imgur.com/4SdB78W.gif" width="400" height="400" />
 <h2>⚡️ A Few Quick Facts</h2>
