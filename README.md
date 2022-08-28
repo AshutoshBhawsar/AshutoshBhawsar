@@ -3,6 +3,13 @@
 
 <img align="right" src="https://i.imgur.com/4SdB78W.gif" width="400" height="400" />
 <h2>⚡️ A Few Quick Facts</h2>
+<ul>
+  <li>Proficient in Python and C++</li>
+  <li>Total experience over 2 years in software development</li>
+  <li>Crazy for video games 🎮, swimming 🏊🏼, and  reading thriller novels 📖</li>
+  <li>Favourite quote: Git Push -> Get Paid</li>
+  <li>Cat lover (vice versa not always true)</li>
+</ul>
 
 <h3>Where to find me</h3>
 <p><a href="https://github.com/AshutoshBhawsar" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />  <a href="https://twitter.com/ashutosh10_1" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>  <a href="https://www.instagram.com/ashutosh_10.1" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>  <a href="https://www.linkedin.com/in/AshutoshBhawsar" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
