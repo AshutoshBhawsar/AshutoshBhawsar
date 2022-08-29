@@ -7,7 +7,7 @@
   <li>Proficient in Python and C++</li>
   <li>Total experience over 2 years in software development</li>
   <li>Crazy for video games 🎮, swimming 🏊🏼, and  reading thriller novels 📖</li>
-  <li>Favourite quote: Git Push -> Get Paid</li>
+  <li>Favourite quote: <strong>Git Push -> Get Paid</strong></li>
   <li>Cat lover (vice versa not always true)</li>
 </ul>
 
