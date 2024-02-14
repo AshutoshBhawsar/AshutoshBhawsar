@@ -4,10 +4,9 @@
 <img align="right" src="https://i.imgur.com/4SdB78W.gif" width="400" height="400" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-  <li>Proficient in Python and C++</li>
-  <li>Certified full-stack developer for Microsoft tech stack:</li>
-  <li>C#, ASP .NET, MSSQL, Angular 8, HTML5</li>
-  <li>Total experience over 2 years in software development</li>
+  <li>Proficient in Distributed Systems, Data Structures, and Algorithms </li>
+  <li>Experienced in AWS and CI/CD tools</li>
+  <li>Total experience over 3 years in software development</li>
   <li>Crazy for video games 🎮, swimming 🏊🏼, and  reading thriller novels 📖</li>
   <li>Favourite quote: <strong>Git Push -> Get Paid</strong></li>
   <li>Cat lover (vice versa not always true)</li>
