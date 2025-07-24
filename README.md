@@ -6,7 +6,7 @@
 <ul>
   <li>Proficient in Distributed Systems, Data Structures, and Algorithms </li>
   <li>Experienced in AWS and CI/CD tools</li>
-  <li>Total experience over 3 years in software development</li>
+  <li>Total experience over 4 years in software development</li>
   <li>Crazy for video games 🎮, swimming 🏊🏼, and  reading thriller novels 📖</li>
   <li>Favourite quote: <strong>Improvise, Adapt, Overcome</strong></li>
   <li>Cat lover (vice versa not always true)</li>
