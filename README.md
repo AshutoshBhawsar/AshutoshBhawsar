@@ -1,8 +1,9 @@
 <h1>Hey <img src="https://slackmojis.com/emojis/4594-blob-wave/download" width="40"/>, I'm Ashutosh</h1>
 <p>I'm an experienced Software Engineer skilled in distributed systems & backend development, dedicated to delivering high-quality code and driving project success. Currently, I'm a Software Engineer at <a href="https://www.bytedance.com/en/" target="_blank"><strong>ByteDance</strong></a> in San Jose, CA, architecting multi‑region Go/gRPC services and Kafka/Flink pipelines for billions of daily requests. Previously, I held the position of Software Engineer at <a href="https://zoox.com/" target="_blank"><strong>Zoox</strong></a> in Foster City, CA, where I contribute to cutting-edge software solutions for autonomous vehicles. I hold a <strong>Master's degree</strong> in Computer Science and Engineering from the <a href="http://www.buffalo.edu/" target="_blank"><strong>University at Buffalo</strong></a>, NY, with a specialization in Software and Information Systems. <br><br>Prior to my current role, I worked as a Backend Software Engineer at <a href="https://www.infosys.com/" target="_blank"><strong>Infosys</strong></a>, where I designed and implemented RESTful APIs for high-traffic e-commerce platforms, optimized database queries, and implemented automated testing. I graduated with a <strong>Bachelor's degree</strong> in Computer Engineering from <a href="http://www.unipune.ac.in/" target="_blank"><strong>Pune University</strong></a>.</p>
 
-<!img align="right" src="https://i.imgur.com/4SdB78W.gif" width="300" height="300" />
+
 <h2>⚡️ A Few Quick Facts</h2>
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGt3b2ltYXJnbTVqb2d2ZGMyYWRjMmp6Nzc1ZW5iN3ZrbTNuODByayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ule4vhcY1xEKQ/giphy.gif" width="250" height="250" />
 <ul>
   <li>Proficient in Distributed Systems, Data Structures, and Algorithms </li>
   <li>Experienced in AWS and CI/CD tools</li>
